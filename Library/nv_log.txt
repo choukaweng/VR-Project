@@ -1,0 +1,50 @@
+GfxPluginVRWorks: Shader cache v20160826
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3994559096 size 5992
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1681036375 size 6108
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1579333584 size 6312
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 4156157728 size 6312
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 357250557 size 6312
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3741860980 size 6428
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 2763528151 size 6336
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1760293708 size 6108
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 4217051365 size 6232
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 2636069689 size 6312
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1050296901 size 6440
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 2486785073 size 6520
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3231966269 size 6116
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 698076621 size 6116
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1201990588 size 6116
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 4292546963 size 6312
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3312815740 size 5992
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3131756860 size 6740
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3351551278 size 6232
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 104788510 size 6232
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1940930370 size 6740
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3636084548 size 6116
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1112045226 size 6740
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 698427393 size 6740
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3203536767 size 6232
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 1439314890 size 6108
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3108762854 size 6116
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3980433188 size 6116
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 3429254635 size 6232
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 198323258 size 6108
+GfxPluginVRWorks: Shader loaded: type GS_MRS key 198323258 size 6108
+GfxPluginVRWorks: !!! Replaced VS [0x000000001305F7F8] with [0x000000001305F438]
+GfxPluginVRWorks: !!! Replaced VS [0x000000001305F9B8] with [0x000000001305F7F8]
+GfxPluginVRWorks: !!! Replaced VS [0x000000001305E5B8] with [0x000000001305FD78]
+GfxPluginVRWorks: !!! Replaced VS [0x000000001305EB38] with [0x000000001CE506F8]
+GfxPluginVRWorks: !!! Replaced VS [0x000000001CE50338] with [0x000000001CE50538]
+GfxPluginVRWorks: !!! Replaced VS [0x000000001CE50338] with [0x000000001CE4FDF8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049D56E38] with [0x0000000049D573B8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049D57938] with [0x0000000049D57738]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049D56FF8] with [0x0000000049D571F8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049ED2A78] with [0x0000000049ED1DF8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049ED2A78] with [0x0000000049ED31B8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049ED1FB8] with [0x0000000049ED2FF8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049ED3738] with [0x0000000049ED2A78]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049ED3738] with [0x0000000049ED1BF8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049ED1FB8] with [0x0000000049F123F8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049F10FF8] with [0x0000000049F11E78]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049F11CB8] with [0x0000000049F10FF8]
+GfxPluginVRWorks: !!! Replaced VS [0x0000000049F11CB8] with [0x0000000049F113B8]
